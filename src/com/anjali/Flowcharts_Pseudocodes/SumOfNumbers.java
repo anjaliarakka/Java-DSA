@@ -1,4 +1,4 @@
-package com.anjali;
+package com.anjali.Flowcharts_Pseudocodes;
 
 import java.util.Scanner;
 

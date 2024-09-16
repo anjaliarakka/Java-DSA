@@ -1,3 +1,5 @@
+package com.anjali;
+
 import java.util.Scanner;
 
 public class SumOfNumbers {

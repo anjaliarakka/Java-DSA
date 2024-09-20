@@ -1,0 +1,22 @@
+Q1 - leap year
+
+Start
+Input a year
+if y%4 = 0
+    Output "leap year"
+else
+    Output "Not a leap year"
+Stop
+
+
+Q2 - Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
+
+Start
+Input a number(n)
+sum = 0
+while n!='x' {
+ sum += n
+ take next integer input
+}
+print the sum
+Stop

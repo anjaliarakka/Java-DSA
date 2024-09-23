@@ -1,4 +1,4 @@
-package com.anjali.Arrays_ArrayList;
+package com.anjali.Data_Structures.Arrays_ArrayList;
 
 import java.util.Scanner;
 

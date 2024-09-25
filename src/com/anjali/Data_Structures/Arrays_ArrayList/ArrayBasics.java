@@ -53,6 +53,8 @@ public class ArrayBasics {
                 System.out.print(element + " ");
             }
             System.out.println();
+
+//            System.out.println(Arrays.toString(row));
         }
 
         for (int[] row : array2D) {

@@ -31,7 +31,9 @@ public class RichestCustomerWealth {
             for (int amount : account) {
                 totalWealth += amount;
             }
-            maxWealth = Math.max(totalWealth, maxWealth);
+//            maxWealth = Math.max(totalWealth, maxWealth);
+            if (totalWealth > maxWealth)
+                maxWealth = totalWealth;
         }
 
         System.out.println("maxWealth: " + maxWealth);

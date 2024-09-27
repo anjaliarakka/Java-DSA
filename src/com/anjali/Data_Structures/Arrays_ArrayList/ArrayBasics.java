@@ -61,5 +61,7 @@ public class ArrayBasics {
             System.out.print(Arrays.toString(row));
             System.out.println();
         }
+
+        System.out.println(Arrays.deepToString(array2D));
     }
 }

@@ -1,0 +1,11 @@
+{
+  "name": "java-dsa",
+  "version": "1.0.0",
+  "description": "Java repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anjali arakka",
+  "license": "ISC"
+}

@@ -37,5 +37,7 @@ public class FlipImage {
             }
 
         System.out.println("Invert image: " + image);
+
+        // Not-submitted
     }
 }

@@ -1,6 +1,10 @@
+import com.anjali.Exceptions.Exceptions;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+
+        Exceptions.examples();
 
 /*
  * compile -> javac -d <path-to-save-(.class)file> <path-to-java-file-from-current-directory>.java // -d = directory

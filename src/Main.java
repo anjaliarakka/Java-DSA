@@ -1,10 +1,12 @@
 import com.anjali.Exceptions.Exceptions;
+import com.anjali.Generics.GenericsDemo;
 
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
         Exceptions.examples();
+        GenericsDemo.examples();
 
 /*
  * compile -> javac -d <path-to-save-(.class)file> <path-to-java-file-from-current-directory>.java // -d = directory
